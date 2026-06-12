@@ -1,7 +1,7 @@
 Hi! 👋 I'm Michelle.
 ===================================================================================================================================
 
-Geospatial | Data | Digital | Health
+Geospatial 🌍 | Data 📊 | Digital 📱 | Health 💉
 ------------------------------------
 
 I'm a trained epidemiologist turned data scientist and technical consultant, passionate about helping a variety of clients understand and solve broad infectious disease-, global health-, health informatics- and geospatial-adjacent problems using sound, data-driven solutions.
