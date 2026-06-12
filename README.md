@@ -7,9 +7,9 @@ Geospatial | Data | Digital | Health
 I'm a trained epidemiologist turned data scientist and technical consultant, passionate about helping a variety of clients understand and solve broad infectious disease-, global health-, health informatics- and geospatial-adjacent problems using sound, data-driven solutions.
 
 * 🌍  I'm based (primarily) in the United States
-* 🖥️  See my portfolio at [Google Scholar](http://scholar.google.com/citations?user=QCGBY3IAAAAJ&hl=en)
+* 🖥️  See my academic portfolios at either [Google Scholar](http://scholar.google.com/citations?user=QCGBY3IAAAAJ&hl=en) or at [ORCID](https://orcid.org/0000-0001-9554-7997)
 * ✉️  You can contact me at [schmitz.michelle.m@gmail.com](mailto:schmitz.michelle.m@gmail.com)
-* 👥  I'm looking to collaborate on any interesting projects or developing capacity within my field.
+* 👥  I'm looking to either collaborate on any interesting projects or develop human or technical capacity in my field
 * 😄  Pronouns: she/her
 
 <p align="left">
